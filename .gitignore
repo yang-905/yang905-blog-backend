@@ -5,6 +5,7 @@ node_modules/
 dist/
 build/
 out/
+uploads/
 
 # 环境变量，包含敏感信息
 .env
@@ -35,3 +36,6 @@ Thumbs.db
 # 测试覆盖率
 coverage/
 .nyc_output/
+
+#数据库
+sql.js
